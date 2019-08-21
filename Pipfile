@@ -8,6 +8,7 @@ pytest = "*"
 matplotlib = "*"
 networkx = "*"
 jupyter = "*"
+gym = "*"
 
 [requires]
 python_version = "3.7"
